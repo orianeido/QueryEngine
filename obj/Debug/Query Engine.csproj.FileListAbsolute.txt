@@ -1,0 +1,7 @@
+C:\Users\orian\Source\Repos\Query Engine\Query Engine\obj\Debug\Query Engine.csprojAssemblyReference.cache
+C:\Users\orian\Source\Repos\Query Engine\Query Engine\obj\Debug\Query Engine.csproj.CoreCompileInputs.cache
+C:\Users\orian\Source\Repos\Query Engine\Query Engine\bin\Debug\Query Engine.exe.config
+C:\Users\orian\Source\Repos\Query Engine\Query Engine\bin\Debug\Query Engine.exe
+C:\Users\orian\Source\Repos\Query Engine\Query Engine\bin\Debug\Query Engine.pdb
+C:\Users\orian\Source\Repos\Query Engine\Query Engine\obj\Debug\Query Engine.exe
+C:\Users\orian\Source\Repos\Query Engine\Query Engine\obj\Debug\Query Engine.pdb
