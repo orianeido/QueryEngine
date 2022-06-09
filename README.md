@@ -1,5 +1,5 @@
 # QueryEngine
-Answer for an housework for Student C#/.NET Backend Developer Position at Hibernating Rhinos
+Answer for an housework for Backend Developer Student Position at Hibernating Rhinos
 
 ### Question
 Given a data source such as:
